@@ -1,0 +1,7 @@
+{
+	"name": "SCSS",
+	"version": "0.0.1",
+	"authors": ["Daniel Bergholt <daniel@bergholt.com>"],
+	"description": "SCSS extension for Zed",
+	"repository": "https://github.com/DanMB/zed-extension-scss"
+}
